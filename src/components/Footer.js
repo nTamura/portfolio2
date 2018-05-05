@@ -11,14 +11,13 @@ const Footer = () => (
         <ul className="copyright">
           <li>&copy; Copyright 2018 CeeVee</li>
           <li>
-            Design by{" "}
-            <a title="Styleshout" href="http://www.styleshout.com/">
-              Styleshout
-            </a>
+            <a href="http://www.github.com/ntamura">nTamura</a>
+
           </li>
           <li>
-            Developed in React ⚛️ by{" "}
-            <a href="http://www.amanhimself.me">Aman Mittal</a>
+            With Credits to
+            <a title="Styleshout" href="http://www.styleshout.com/"> Styleshout </a> &
+            <a href="http://www.amanhimself.me"> Aman Mittal</a>
           </li>
         </ul>
       </div>
