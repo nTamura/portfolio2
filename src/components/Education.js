@@ -53,4 +53,12 @@ const Education = () => (
   </div>
 );
 
+{/* <h2>Technologies</h2>
+<p className="address">
+  <span>HTML, CSS, SASS, JavaScript (ES6), Ruby</span><br />
+  <span>React, Node, Express, Ruby on Rails</span><br />
+  <span>MongoDB, Postgres, FireBase, Heroku</span><br />
+  <span>REST API, JSON, PWA, Git</span><br />
+</p> */}
+
 export default Education;

@@ -716,18 +716,17 @@ properly.
 --------------------------------------------------------------- */
 @media only screen and (max-width: 767px) {
 
-   .row {
-	   width: 80%;
-	   /* width: 460px; */
-	   margin: 0 auto;
-      padding: 0;
+  .row {
+     width: 460px;
+     margin: 0 auto;
+     padding: 0;
 	}
-   .column, .columns {
+  .column, .columns {
 	   width: auto !important;
 	   float: none;
 	   margin-left: 0;
 	   margin-right: 0;
-      padding: 0 30px;
+    padding: 0 30px;
    }
    .row .row { width: auto; max-width: none; margin: 0 -30px; }
 
@@ -1544,7 +1543,6 @@ call-to-action .button {
 
 #testimonials {
   background: linear-gradient(to bottom, #8e428b, #261e3e) no-repeat top center;
-
   /* background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center; */
   background-size: cover !important;
   -webkit-background-size: cover !important;
@@ -2043,8 +2041,8 @@ footer .social li:first-child {
     line-height: 66px;
  }
  #testimonials blockquote p {
-    font-size: 22px;
-    line-height: 46px;
+    font-size: 1.2em;
+    /* line-height: 46px; */
  }
 
   /* Call to Action Section
@@ -2189,7 +2187,8 @@ footer .social li:first-child {
 
  /* About Section
  -------------------------------------------------------------------- */
- #about .profile-pic { display: none; }
+ /* #about .profile-pic { display: none; } */
+ #about .m-profile { text-align: center; }
  #about .download .button {
     width: 100%;
     text-align: center;
@@ -2245,8 +2244,8 @@ footer .social li:first-child {
  #testimonials .header-col h1:before { content: none; }
  #testimonials blockquote { padding-bottom: 24px; }
  #testimonials blockquote p {
-    font-size: 1.1em;
-    /* line-height: 42px; */
+    font-size: 1.3em;
+    line-height: 1.2em;
     text-align: left;
  }
 
