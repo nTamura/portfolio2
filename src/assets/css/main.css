@@ -717,7 +717,8 @@ properly.
 @media only screen and (max-width: 767px) {
 
    .row {
-	   width: 460px;
+	   width: 80%;
+	   /* width: 460px; */
 	   margin: 0 auto;
       padding: 0;
 	}
@@ -1542,7 +1543,9 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-  background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
+  background: linear-gradient(to bottom, #8e428b, #261e3e) no-repeat top center;
+
+  /* background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center; */
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
@@ -1592,13 +1595,13 @@ call-to-action .button {
 #testimonials blockquote p {
   font-family: "librebaskerville-italic", serif;
   padding: 0;
-  font-size: 24px;
-  line-height: 48px;
+  font-size: 1.3em;
+  /* line-height: 48px; */
   color: #fff;
 }
 #testimonials blockquote cite {
   display: block;
-  font-size: 12px;
+  font-size: 1em;
   font-style: normal;
   line-height: 18px;
   color: #fff;
@@ -2242,8 +2245,9 @@ footer .social li:first-child {
  #testimonials .header-col h1:before { content: none; }
  #testimonials blockquote { padding-bottom: 24px; }
  #testimonials blockquote p {
-    font-size: 20px;
-    line-height: 42px;
+    font-size: 1.1em;
+    /* line-height: 42px; */
+    text-align: left;
  }
 
  /* Control Nav */
