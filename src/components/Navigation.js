@@ -6,7 +6,7 @@ const Navigation = () => (
     <ul id="nav" className="nav">
       <li className="current">
         <a className="smoothscroll" href="#home">
-          Home
+          Top
         </a>
       </li>
       <li>
@@ -15,23 +15,13 @@ const Navigation = () => (
         </a>
       </li>
       <li>
-        <a className="smoothscroll" href="#resume">
-          Resume
-        </a>
-      </li>
-      <li>
         <a className="smoothscroll" href="#portfolio">
-          Works
+          Portfolio
         </a>
       </li>
       <li>
         <a className="smoothscroll" href="#testimonials">
           Testimonials
-        </a>
-      </li>
-      <li>
-        <a className="smoothscroll" href="#footer">
-          Footer
         </a>
       </li>
     </ul>

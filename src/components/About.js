@@ -13,7 +13,7 @@ const About = () => (
         <h2>About Nic</h2>
         <hr />
         <p>
-          I am a full-stack developer with a strong, technical background in computer servicing. I am a ramen junkie, super-average snowboarder, wanna-be guitarist, and a PC enthusiast. I originally started at BCIT's CISA program, but decided that it was not for me. Since then, I have graduated from CodeCore's Full-Stack Development Bootcamp and have happily been clacking away on my keyboard.
+          I am a full-stack developer with a strong, technical background in computer servicing. I am a ramen junkie, super-average snowboarder, wanna-be guitarist, and a PC enthusiast. I originally started at BCIT's CISA program for computer networking, but decided that it was not for me. Since then, I have graduated from CodeCore's Full-Stack Development Bootcamp and have happily been clacking away on my keyboard.
         </p>
 
       </div>

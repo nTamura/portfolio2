@@ -948,6 +948,7 @@ header .scrolldown a:hover {
 
 /* nav-wrap */
 #nav-wrap {
+  background-color: #5375cc;
   font: 12px "opensans-bold", sans-serif;
   width: 100%;
   text-transform: uppercase;
@@ -1128,7 +1129,14 @@ ul#nav li.current a {
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
-
+.skills-list {
+  font: 1.3em "opensans-bold", sans-serif;
+  color: #313131;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: normal;
+  line-height: 1.6em;
+}
 .bars {
   width: 95%;
   float: left;
@@ -2334,14 +2342,25 @@ footer .social li:first-child {
  }
 
  /* header social links */
- header .social { font-size: 20px;}
+ /* header .social { font-size: 20px;} */
  header .social li { margin: 0 6px; }
+
+ .skills-list {
+   font: 15px "opensans-bold", sans-serif;
+   color: #313131;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   font-weight: normal;
+   line-height: 1.5em;
+   /* position: relative; */
+   /* top: -36px; */
+ }
 
  /* footer
  ------------------------------------------------------------------------ */
 
  /* social links */
- footer .social { font-size: 20px; }
+ /* footer .social { font-size: 20px; } */
  footer .social li { margin-left: 14px; }
 
 }
