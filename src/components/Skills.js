@@ -18,34 +18,10 @@ const Skills = () => (
         <span>MongoDB, Postgres, FireBase</span><br />
         <span>REST, JSON, PWA, Git, Heroku</span><br />
       </p>
+      <p>
+        What I am currently looking to get into is gain professional experience with React (or similar frameworks), and get into Software Engineering or Mobile Development through PWAs or React Native. 
+      </p>
 
-      {/* <div className="bars">
-        <ul className="skills">
-          <li>
-            <em>Photoshop</em>
-          </li>
-          <li>
-            <span className="bar-expand illustrator" />
-            <em>Illustrator</em>
-          </li>
-          <li>
-            <span className="bar-expand wordpress" />
-            <em>Wordpress</em>
-          </li>
-          <li>
-            <span className="bar-expand css" />
-            <em>CSS</em>
-          </li>
-          <li>
-            <span className="bar-expand html5" />
-            <em>HTML5</em>
-          </li>
-          <li>
-            <span className="bar-expand nodejs" />
-            <em>Nodejs</em>
-          </li>
-        </ul>
-      </div> */}
     </div>
   </div>
 );
