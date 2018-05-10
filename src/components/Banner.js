@@ -6,12 +6,9 @@ const Banner = () => (
     <div className="banner-text">
       <h1 className="responsive-headline">Nic Tamura</h1>
       <h3>
-        I am a Vancouver based <span>Web Developer</span> with a strong, technical background in computer servicing.
-        {/* <a className="smoothscroll" href="#about">
-          {" "}
-          about me
-        </a>. */}
+        Vancouver based <span>Web Developer</span> with a strong, technical background in computer servicing
       </h3>
+      {/* <h3></h3> */}
       <hr />
       <SocialLinks />
     </div>

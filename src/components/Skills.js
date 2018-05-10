@@ -13,7 +13,7 @@ const Skills = () => (
         My current technology focus consists of the MERN stack (MongoDB, Express, Node, and React), but am familiar with a range of other languages and frameworks as well. Some of the tech that I work with (but not limited to) includes:
       </p>
       <p className="skills-list">
-        <span>HTML, CSS, SASS, JS (ES6), Ruby</span><br />
+        <span>HTML, CSS, SASS, JS (ES6/7), Ruby</span><br />
         <span>React, Node, Express, Rails</span><br />
         <span>MongoDB, Postgres, FireBase</span><br />
         <span>REST, JSON, PWA, Git, Heroku</span><br />
