@@ -26,7 +26,7 @@ const Navigation = () => (
       </li> */}
       <li>
         <a className="smoothscroll" href="#testimonials">
-          Testimonials
+          Recommendations
         </a>
       </li>
     </ul>
