@@ -15,7 +15,7 @@ const Skills = () => (
       <p className="skills-list">
         <span>HTML, CSS, SASS, JS (ES6/7), Ruby</span><br />
         <span>React, Node, Express, Rails</span><br />
-        <span>MongoDB, Postgres, GraphQL</span><br />
+        <span>MongoDB, Postgres</span><br />
         <span>FireBase, Firestore Cloud, Heroku</span><br />
         <span>REST, JSON, PWA, Git, AWS</span><br />
       </p>
